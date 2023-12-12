@@ -10,7 +10,7 @@ The command for the exam to deploy in is `bash -c "$(curl https://grademe.fr)"`
     <td align="center" width="50"><b>Status</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/PaLucena/Exam-Rank-03/tree/main/ft_printf">microshell</a></td>
+    <td align="center"><a href="https://github.com/PaLucena/Exam-Rank-04/tree/main/microshell">microshell</a></td>
     <td align="center">...</td>
   </tr>
 </table>
